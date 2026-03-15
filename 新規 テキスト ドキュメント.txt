@@ -1,0 +1,12 @@
+Resume this session with:
+claude --resume 87d15a9b-efb5-4937-a526-334a28df9d0b
+
+移動スピードをUI上で変えられるようにしたい
+
+３画面
+
+録画（ストリーム数をできるだけ減らす）
+
+ホームポジションボタン
+
+GNSS
